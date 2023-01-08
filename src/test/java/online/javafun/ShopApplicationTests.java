@@ -1,10 +1,10 @@
-package dsfds.fwdfew;
+package online.javafun;
 
 import org.junit.jupiter.api.Test;
 import org.springframework.boot.test.context.SpringBootTest;
 
 @SpringBootTest
-class FwdfewApplicationTests {
+class ShopApplicationTests {
 
     @Test
     void contextLoads() {
